@@ -42,10 +42,10 @@ var APP_DATA = {
           "target": "1-living-area"
         },
         {
-          "yaw": -2.4597037657823684,
-          "pitch": 0.0799791234667886,
+          "yaw": -2.452483406736146,
+          "pitch": 0.1854734033042682,
           "rotation": 0,
-          "target": "4-rooftop-pool"
+          "target": "4-pool--sundeck"
         }
       ],
       "infoHotspots": []
@@ -86,16 +86,22 @@ var APP_DATA = {
           "target": "2-terace"
         },
         {
-          "yaw": -0.10306874815059075,
-          "pitch": 0.1650911871463503,
-          "rotation": 0,
+          "yaw": -0.10517024939183983,
+          "pitch": 0.15170998342030373,
+          "rotation": 1.5707963267948966,
           "target": "0-sleeping"
         },
         {
-          "yaw": -0.3070152409253808,
-          "pitch": 0.08860237257584025,
-          "rotation": 1.5707963267948966,
+          "yaw": -0.2816056432569418,
+          "pitch": 0.038545021936428725,
+          "rotation": 6.283185307179586,
           "target": "3-entrance--bathroom"
+        },
+        {
+          "yaw": -0.45811425959625574,
+          "pitch": 0.13825955637943288,
+          "rotation": 5.497787143782138,
+          "target": "4-pool--sundeck"
         }
       ],
       "infoHotspots": []
@@ -177,14 +183,14 @@ var APP_DATA = {
           "yaw": -2.163789427504156,
           "pitch": 0.06434685769530724,
           "rotation": 0,
-          "target": "4-rooftop-pool"
+          "target": "4-pool--sundeck"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "4-rooftop-pool",
-      "name": "ROOFTOP POOL",
+      "id": "4-pool--sundeck",
+      "name": "POOL & SUNDECK",
       "levels": [
         {
           "tileSize": 256,
@@ -210,30 +216,30 @@ var APP_DATA = {
       ],
       "faceSize": 2976,
       "initialViewParameters": {
-        "yaw": -0.6437989987639217,
-        "pitch": -0.10018602761043738,
+        "yaw": 3.0323106411762506,
+        "pitch": -0.06583037504686651,
         "fov": 1.4300641596566168
       },
       "linkHotspots": [
         {
-          "yaw": 1.658105503722676,
-          "pitch": 0.2052718013844217,
+          "yaw": -0.675627833790724,
+          "pitch": 0.01304622622570939,
           "rotation": 3.141592653589793,
           "target": "3-entrance--bathroom"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": 1.6584615081006087,
-          "pitch": 0.06960813494916884,
-          "title": "Delux AdultsOnly Suite",
-          "text": "Back&nbsp;"
+          "yaw": 2.8504564186844963,
+          "pitch": 0.3007909137142111,
+          "title": "JACUZZI WHIRLPOOL WATERBLADE",
+          "text": "Text"
         },
         {
-          "yaw": 0.13543944485214254,
-          "pitch": 0.27154365147077897,
-          "title": "Infinity Cristal Pool",
-          "text": "Heated<div>Jacuzzi</div><div>Whirlpool</div><div>Waterblade</div><div>open until midnight !</div>"
+          "yaw": -0.6766243479417007,
+          "pitch": -0.13000506634914544,
+          "title": "DELUX SUITE",
+          "text": "Text"
         }
       ]
     }
